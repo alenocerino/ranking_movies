@@ -28,7 +28,3 @@ Este proyecto se encarga de **extraer información** sobre las mejores película
 
 - **Descubre Nuevas Series y Películas**: Encuentra los títulos más populares y mejor valorados. 🎬🔝
 - **Información Detallada**: Obtén detalles completos sobre cada película y serie en un solo lugar. 📚✨
-
----
-
-Espero que esta versión con emojis haga que la explicación sea aún más atractiva y fácil de entender. 🚀📚
